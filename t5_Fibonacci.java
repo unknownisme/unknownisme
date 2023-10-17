@@ -10,6 +10,7 @@ package com.day03_递归.ditui;
 public class t5_Fibonacci {
     public static void main(String[] args) {
         System.out.println(fib(5));
+        
     }
     static int fib(int n)
     {
